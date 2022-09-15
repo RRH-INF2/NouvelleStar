@@ -4,6 +4,7 @@ import java.util.Random;
 public class NouvelleStar {
 
    public static void main(String[] args) {
+      System.out.println("Coucou");
       final int ARGS_LENGTH = args.length;
       if (ARGS_LENGTH == 0) {
          System.out.println("Il n’existe aucun candidat !");
