@@ -7,7 +7,7 @@ public class NouvelleStar {
       System.out.println("Coucou");
       final int ARGS_LENGTH = args.length;
       if (ARGS_LENGTH == 0) {
-         System.out.println("Il n’existe aucun candidat !");
+         System.out.println("Blabla");
       } else {
          // Affichage des candidats
          System.out.println("Candidats:");
