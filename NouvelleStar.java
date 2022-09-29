@@ -3,10 +3,14 @@ import java.util.Random;
 
 public class NouvelleStar {
 
+   /**
+    * Programme principal
+    * @param args arguments de la ligne de commande
+    */
    public static void main(String[] args) {
       final int ARGS_LENGTH = args.length;
       if (ARGS_LENGTH == 0) {
-         System.out.println("Attention ! Aucun candidat sélectionné !");
+         System.out.println("Attention ! Aucun candidat sélectionné blabla!");
       } else {
          // Affichage des candidats
          System.out.println("Candidats:");
